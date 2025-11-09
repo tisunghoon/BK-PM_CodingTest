@@ -1,1 +1,2 @@
-# BaekJoon_CodingTest
+# BK-PM_CodingTest
+### 백준과 프로그래머스 코딩테스트 문제풀이 모음집입니다. (since 2025/11/09)
